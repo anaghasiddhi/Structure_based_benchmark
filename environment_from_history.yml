@@ -1,0 +1,16 @@
+name: /home/scratch1/asiddhi/benchmarking_model2/conda_env/deeppocket
+channels:
+  - defaults
+dependencies:
+  - matplotlib=3.5
+  - numpy=1.21
+  - pip
+  - python=3.8
+  - pytorch=1.10.2
+  - rdkit=2021.09.5
+  - scikit-learn=1.0
+  - torchvision=0.11.3
+  - cmake
+  - boost
+  - boost-cpp
+prefix: /home/scratch1/asiddhi/benchmarking_model2/conda_env/deeppocket
