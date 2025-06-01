@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.log
+checkpoints/
+Results/
+*.tar.gz
+*.zip
+*.out
